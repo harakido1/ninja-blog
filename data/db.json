@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "The Way of Kings",
+      "body": "Another good book.",
+      "author": "john",
+      "id": 3
+    },
+    {
+      "title": "The Great Hunt",
+      "body": "This was good too.",
+      "author": "monica",
+      "id": 4
+    },
+    {
+      "title": "The Dragon Reborn",
+      "body": "A very good book.",
+      "author": "John",
+      "id": 5
+    },
+    {
+      "title": "The Hobbit",
+      "body": "First fantasy book.",
+      "author": "John",
+      "id": 7
+    }
+  ]
+}
